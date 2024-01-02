@@ -1,0 +1,15 @@
+C:\Users\Adriano\Downloads\celular\3\dio-criando-sistema-abstraindo-celular-pooc-main\dio-criando-sistema-abstraindo-celular-pooc\bin\Debug\net6.0\DesafioPOO.exe
+C:\Users\Adriano\Downloads\celular\3\dio-criando-sistema-abstraindo-celular-pooc-main\dio-criando-sistema-abstraindo-celular-pooc\bin\Debug\net6.0\DesafioPOO.deps.json
+C:\Users\Adriano\Downloads\celular\3\dio-criando-sistema-abstraindo-celular-pooc-main\dio-criando-sistema-abstraindo-celular-pooc\bin\Debug\net6.0\DesafioPOO.runtimeconfig.json
+C:\Users\Adriano\Downloads\celular\3\dio-criando-sistema-abstraindo-celular-pooc-main\dio-criando-sistema-abstraindo-celular-pooc\bin\Debug\net6.0\DesafioPOO.dll
+C:\Users\Adriano\Downloads\celular\3\dio-criando-sistema-abstraindo-celular-pooc-main\dio-criando-sistema-abstraindo-celular-pooc\bin\Debug\net6.0\DesafioPOO.pdb
+C:\Users\Adriano\Downloads\celular\3\dio-criando-sistema-abstraindo-celular-pooc-main\dio-criando-sistema-abstraindo-celular-pooc\obj\Debug\net6.0\DesafioPOO.csproj.AssemblyReference.cache
+C:\Users\Adriano\Downloads\celular\3\dio-criando-sistema-abstraindo-celular-pooc-main\dio-criando-sistema-abstraindo-celular-pooc\obj\Debug\net6.0\DesafioPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adriano\Downloads\celular\3\dio-criando-sistema-abstraindo-celular-pooc-main\dio-criando-sistema-abstraindo-celular-pooc\obj\Debug\net6.0\DesafioPOO.AssemblyInfoInputs.cache
+C:\Users\Adriano\Downloads\celular\3\dio-criando-sistema-abstraindo-celular-pooc-main\dio-criando-sistema-abstraindo-celular-pooc\obj\Debug\net6.0\DesafioPOO.AssemblyInfo.cs
+C:\Users\Adriano\Downloads\celular\3\dio-criando-sistema-abstraindo-celular-pooc-main\dio-criando-sistema-abstraindo-celular-pooc\obj\Debug\net6.0\DesafioPOO.csproj.CoreCompileInputs.cache
+C:\Users\Adriano\Downloads\celular\3\dio-criando-sistema-abstraindo-celular-pooc-main\dio-criando-sistema-abstraindo-celular-pooc\obj\Debug\net6.0\DesafioPOO.dll
+C:\Users\Adriano\Downloads\celular\3\dio-criando-sistema-abstraindo-celular-pooc-main\dio-criando-sistema-abstraindo-celular-pooc\obj\Debug\net6.0\refint\DesafioPOO.dll
+C:\Users\Adriano\Downloads\celular\3\dio-criando-sistema-abstraindo-celular-pooc-main\dio-criando-sistema-abstraindo-celular-pooc\obj\Debug\net6.0\DesafioPOO.pdb
+C:\Users\Adriano\Downloads\celular\3\dio-criando-sistema-abstraindo-celular-pooc-main\dio-criando-sistema-abstraindo-celular-pooc\obj\Debug\net6.0\DesafioPOO.genruntimeconfig.cache
+C:\Users\Adriano\Downloads\celular\3\dio-criando-sistema-abstraindo-celular-pooc-main\dio-criando-sistema-abstraindo-celular-pooc\obj\Debug\net6.0\ref\DesafioPOO.dll
